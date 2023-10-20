@@ -1,0 +1,19 @@
+*{
+    
+}
+.a{
+    background-color: blue; 
+    color: white;
+    font-size: 60px;
+    font-family: 'Noto Serif', serif;
+    padding: 20px 600px ;
+    margin: 20px ;
+    border: 8px solid black;
+    border-radius: 75px;
+
+}
+#test {
+    background-color:aqua ;
+    color: bisque;
+    font-size: 20px;
+}
